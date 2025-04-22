@@ -1,0 +1,212 @@
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\App.g.cs
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\ItogRab2_MarkupCompile.cache
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\ItogRab2_MarkupCompile.lref
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\ItogRab2.exe.config
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\ItogRab2.exe
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\ItogRab2.pdb
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\View\Windows\LoginWindow.g.cs
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\App.baml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\View\Windows\LoginWindow.baml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\ItogRab2.g.resources
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\ItogRab2.Properties.Resources.resources
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.Up2Date
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\ItogRab2.exe
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\ItogRab2.pdb
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\ClosedXML.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\ClosedXML.Parser.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\RBush.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\SixLabors.Fonts.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\ClosedXML.pdb
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\ClosedXML.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\ClosedXML.Parser.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\RBush.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\SixLabors.Fonts.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\ItogRab2\ItogRab2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\ItogRab2\ItogRab2\bin\Debug\ItogRab2.exe.config
+F:\ItogRab2\ItogRab2\bin\Debug\ItogRab2.exe
+F:\ItogRab2\ItogRab2\bin\Debug\ItogRab2.pdb
+F:\ItogRab2\ItogRab2\bin\Debug\ClosedXML.dll
+F:\ItogRab2\ItogRab2\bin\Debug\ClosedXML.Parser.dll
+F:\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.dll
+F:\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+F:\ItogRab2\ItogRab2\bin\Debug\ExcelNumberFormat.dll
+F:\ItogRab2\ItogRab2\bin\Debug\MaterialDesignColors.dll
+F:\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\ItogRab2\ItogRab2\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\ItogRab2\ItogRab2\bin\Debug\RBush.dll
+F:\ItogRab2\ItogRab2\bin\Debug\SixLabors.Fonts.dll
+F:\ItogRab2\ItogRab2\bin\Debug\System.Buffers.dll
+F:\ItogRab2\ItogRab2\bin\Debug\System.Memory.dll
+F:\ItogRab2\ItogRab2\bin\Debug\System.Numerics.Vectors.dll
+F:\ItogRab2\ItogRab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\ItogRab2\ItogRab2\bin\Debug\ClosedXML.pdb
+F:\ItogRab2\ItogRab2\bin\Debug\ClosedXML.xml
+F:\ItogRab2\ItogRab2\bin\Debug\ClosedXML.Parser.xml
+F:\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.xml
+F:\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+F:\ItogRab2\ItogRab2\bin\Debug\ExcelNumberFormat.xml
+F:\ItogRab2\ItogRab2\bin\Debug\MaterialDesignColors.pdb
+F:\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\ItogRab2\ItogRab2\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\ItogRab2\ItogRab2\bin\Debug\RBush.xml
+F:\ItogRab2\ItogRab2\bin\Debug\SixLabors.Fonts.xml
+F:\ItogRab2\ItogRab2\bin\Debug\System.Buffers.xml
+F:\ItogRab2\ItogRab2\bin\Debug\System.Memory.xml
+F:\ItogRab2\ItogRab2\bin\Debug\System.Numerics.Vectors.xml
+F:\ItogRab2\ItogRab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.AssemblyReference.cache
+F:\ItogRab2\ItogRab2\obj\Debug\MainWindow.g.cs
+F:\ItogRab2\ItogRab2\obj\Debug\View\Windows\LoginWindow.g.cs
+F:\ItogRab2\ItogRab2\obj\Debug\App.g.cs
+F:\ItogRab2\ItogRab2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\ItogRab2\ItogRab2\obj\Debug\ItogRab2_MarkupCompile.cache
+F:\ItogRab2\ItogRab2\obj\Debug\ItogRab2_MarkupCompile.lref
+F:\ItogRab2\ItogRab2\obj\Debug\App.baml
+F:\ItogRab2\ItogRab2\obj\Debug\MainWindow.baml
+F:\ItogRab2\ItogRab2\obj\Debug\View\Windows\LoginWindow.baml
+F:\ItogRab2\ItogRab2\obj\Debug\ItogRab2.g.resources
+F:\ItogRab2\ItogRab2\obj\Debug\ItogRab2.Properties.Resources.resources
+F:\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.GenerateResource.cache
+F:\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.CoreCompileInputs.cache
+F:\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.Up2Date
+F:\ItogRab2\ItogRab2\obj\Debug\ItogRab2.exe
+F:\ItogRab2\ItogRab2\obj\Debug\ItogRab2.pdb
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\ItogRab2.exe.config
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\ItogRab2.exe
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\ItogRab2.pdb
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\ClosedXML.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\ClosedXML.Parser.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\ExcelNumberFormat.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\MaterialDesignColors.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\RBush.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\SixLabors.Fonts.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\System.Buffers.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\System.Memory.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\System.Numerics.Vectors.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\ClosedXML.pdb
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\ClosedXML.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\ClosedXML.Parser.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\ExcelNumberFormat.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\MaterialDesignColors.pdb
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\RBush.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\SixLabors.Fonts.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\System.Buffers.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\System.Memory.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\System.Numerics.Vectors.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.AssemblyReference.cache
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\MainWindow.g.cs
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\View\Windows\LoginWindow.g.cs
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\App.g.cs
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\ItogRab2_MarkupCompile.cache
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\ItogRab2_MarkupCompile.lref
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\App.baml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\MainWindow.baml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\View\Windows\LoginWindow.baml
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\ItogRab2.g.resources
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\ItogRab2.Properties.Resources.resources
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.GenerateResource.cache
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.CoreCompileInputs.cache
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.Up2Date
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\ItogRab2.exe
+F:\Все\Практические ООП\ItogRab2\ItogRab2\obj\Debug\ItogRab2.pdb
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\ItogRab2.exe.config
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\ItogRab2.exe
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\ItogRab2.pdb
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\ClosedXML.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\RBush.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\System.Buffers.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\System.Memory.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\ClosedXML.pdb
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\ClosedXML.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\RBush.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\System.Buffers.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\System.Memory.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\View\Windows\LoginWindow.g.cs
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\ItogRab2_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\ItogRab2_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\View\Windows\LoginWindow.baml
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\ItogRab2.g.resources
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\ItogRab2.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\ItogRab2.csproj.Up2Date
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\ItogRab2.exe
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\ItogRab2.pdb
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\ItogRab2\ItogRab2\obj\Debug\View\Windows\MainWindow.baml
